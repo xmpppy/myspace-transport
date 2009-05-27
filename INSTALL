@@ -1,0 +1,4 @@
+Requirements:
+	Python 2.5
+	PyCrypto
+	xmpp.py 0.4.1
